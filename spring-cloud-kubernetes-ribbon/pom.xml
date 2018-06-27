@@ -23,7 +23,6 @@
     <version>LOCAL-SNAPSHOT</version>
   </parent>
 
-  <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-kubernetes-ribbon</artifactId>
   <name>Spring Cloud Kubernetes :: Ribbon</name>
 

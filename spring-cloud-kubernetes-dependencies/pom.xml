@@ -9,7 +9,6 @@
   </parent>
   <groupId>com.autonomic.spring.cloud</groupId>
   <artifactId>spring-cloud-kubernetes-dependencies</artifactId>
-  <version>LOCAL-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Spring Cloud Kubernetes :: Dependencies</name>
   <description>Spring Cloud Kubernetes Dependencies</description>
